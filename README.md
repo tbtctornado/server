@@ -1,5 +1,5 @@
-The server sends **proving_key.bin** file to the client. 
-Using this file the client can generate proof which makes the user eligible to withdraw TBTC tokens from Tornado. 
+The server sends **withdraw_proving_key.bin** file to the client. 
+Using this file, the client can generate a proof, which makes the user eligible to withdraw TBTC tokens from Tornado. 
 
 
 ## Usage
